@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
 - 😄 Pronouns: This is My GitHub profile,Have fun!
-- ⚡ Fun fact: not good at English 😂
-- 🔗 blog: https://shanejix.vercel.app
+- 🔗 Blog: https://shanejix.vercel.app
