@@ -14,4 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: This is My GitHub profile test,Have fun!
+
+- 🌱 I’m currently learning learning Algorithm & Data Structure
+- 😄 Pronouns: This is My GitHub profile,Have fun!
+- ⚡ Fun fact: not good at English 😂
+
+#### Stats
+
+![PoppinL's github stats](https://github-readme-stats.vercel.app/api?username=shanejix&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanejix&layout=compact&theme=radical)
+
+![Wakatime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shanejix&layout=compact&theme=radical)
+
+#### Blogs 
+
+- [shanejix.vercel.app](https://shanejix.vercel.app)
