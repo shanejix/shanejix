@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shanejix&show_icons=true&theme=radical" />
 
+https://stats.justsong.cn/api/leetcode/?username=shanejix
+
 ### Hi there 👋
 
 <!--
