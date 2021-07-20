@@ -1,12 +1,12 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=shanejix&show_icons=true&theme=radical" /> -->
 
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=&color=blueviolet)
 I'm shanejix, a Chinese FrontEnd Developer.
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
 - 😄 Pronouns: This is My GitHub profile,Have fun!
 - 🔗 Blog: https://shanejix.vercel.app https://shanejix.netlify.app
-
 
 
 ### Languages & Tools
@@ -21,7 +21,7 @@ I'm shanejix, a Chinese FrontEnd Developer.
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
-![](https://komarev.com/ghpvc/?username=&color=blueviolet)
+
 
 
 <!--
