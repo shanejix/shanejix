@@ -1,7 +1,11 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=shanejix&show_icons=true&theme=radical" /> -->
 
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=&color=blueviolet)
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=&color=blueviolet">
+</a>
+
 I'm shanejix, a Chinese FrontEnd Developer.
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
