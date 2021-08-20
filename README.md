@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=&color=blueviolet">
 </a> -->
 
-I'm shanejix, a Chinese FrontEnd Developer.
+I'm shanejix, a FrontEnd Developer.
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
 - 😄 Pronouns: This is My GitHub profile,Have fun!
@@ -29,7 +29,7 @@ I'm shanejix, a Chinese FrontEnd Developer.
 
 
 <!--
-**shanejixx/shanejixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shanejix/shanejix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
