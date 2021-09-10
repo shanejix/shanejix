@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=&color=blueviolet">
 </a> -->
 
+<!--
 I'm shanejix, a FrontEnd Developer.
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
@@ -26,7 +27,7 @@ I'm shanejix, a FrontEnd Developer.
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
 
-
+-->
 
 <!--
 **shanejix/shanejix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
